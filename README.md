@@ -1,5 +1,8 @@
 # investe_nordeste
 
+![20220506_nordeste_FNE_investimento](https://github.com/jonathanlsoares/investe_nordeste/assets/39320157/2a930b76-c163-42e9-912e-f7580ddb1eae)
+
+
 Investe Nordeste: Seu Portal para Investir com Inteligência no Nordeste!
 O Investe Nordeste é o seu assessor completo para investir com inteligência e contribuir para o desenvolvimento da nossa região Nordeste. Mais do que um robô de investimentos, somos uma comunidade que te conecta com oportunidades únicas e te ajuda a alcançar seus objetivos financeiros.
 
